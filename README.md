@@ -1,6 +1,6 @@
 # Hi there 👋 Welcome to my profile!
 
-##  👩🏻‍🦱About me
+## 👩🏻 About me
 * 😎 I'm currently diving into the world of programming with **Factoria F5**.
 * 🎯 Focused on building clean, efficient, and responsive applications.
 * 📚 Continuous learner, passionate about discovering new tools and technologies.
