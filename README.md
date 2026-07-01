@@ -20,5 +20,6 @@
 ![Jira](https://shields.io)
 
 ## 📬 Contact
-[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/ioana-alexandra-popescu-2470b514a/)
-[![Email](https://shields.io)](mailto:tu_email@gmail.com)
+<a href="https://www.linkedin.com/in/ioana-alexandra-popescu-2470b514a/" target="_blank">
+  <img src="https://shields.io" alt="LinkedIn"/>
+</a>
