@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About me
 * 🚀 I'm currently diving into the world of programming with **Factoria F5**.
-* 🎯 Focused on building clean, efficient, and responsive web applications.
+* 🎯 Focused on building clean, efficient, and responsive applications.
 * 📚 Continuous learner, passionate about discovering new tools and technologies.
 
 ## 💻 Stack
