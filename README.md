@@ -6,7 +6,7 @@
 * 📚 Continuous learner, passionate about discovering new tools and technologies.
 
 ## 🧩 Stack
-* 🌐 **Frontend:** `HTML5` | `CSS3` | `SASS` | `JavaScript`
+* 🌐 **Frontend:** `HTML5` | `CSS3` | `Sass` | `JavaScript`
 * ⚡ **Frameworks:** `React` | `Vue.js`
 * ☕ **Backend:** `Java` | `Spring Boot`
 
